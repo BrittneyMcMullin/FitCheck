@@ -2,7 +2,7 @@
 A wardrobe managment iOS app built for COMP 499 Capstone. 
 
 ## Structure
--'ios/' - Swift/Xcode iOS app (TormentNexus)
+- 'ios/' - Swift/Xcode iOS app (TormentNexus)
 - 'backend/' -Node.js/ Express REST API
 
 ## Running the Backend
